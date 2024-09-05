@@ -1,0 +1,14 @@
+C:\Users\pulkit\Desktop\work\05-september-2024\csharpDemo\bin\Debug\net8.0\csharpDemo.exe
+C:\Users\pulkit\Desktop\work\05-september-2024\csharpDemo\bin\Debug\net8.0\csharpDemo.deps.json
+C:\Users\pulkit\Desktop\work\05-september-2024\csharpDemo\bin\Debug\net8.0\csharpDemo.runtimeconfig.json
+C:\Users\pulkit\Desktop\work\05-september-2024\csharpDemo\bin\Debug\net8.0\csharpDemo.dll
+C:\Users\pulkit\Desktop\work\05-september-2024\csharpDemo\bin\Debug\net8.0\csharpDemo.pdb
+C:\Users\pulkit\Desktop\work\05-september-2024\csharpDemo\obj\Debug\net8.0\csharpDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pulkit\Desktop\work\05-september-2024\csharpDemo\obj\Debug\net8.0\csharpDemo.AssemblyInfoInputs.cache
+C:\Users\pulkit\Desktop\work\05-september-2024\csharpDemo\obj\Debug\net8.0\csharpDemo.AssemblyInfo.cs
+C:\Users\pulkit\Desktop\work\05-september-2024\csharpDemo\obj\Debug\net8.0\csharpDemo.csproj.CoreCompileInputs.cache
+C:\Users\pulkit\Desktop\work\05-september-2024\csharpDemo\obj\Debug\net8.0\csharpDemo.dll
+C:\Users\pulkit\Desktop\work\05-september-2024\csharpDemo\obj\Debug\net8.0\refint\csharpDemo.dll
+C:\Users\pulkit\Desktop\work\05-september-2024\csharpDemo\obj\Debug\net8.0\csharpDemo.pdb
+C:\Users\pulkit\Desktop\work\05-september-2024\csharpDemo\obj\Debug\net8.0\csharpDemo.genruntimeconfig.cache
+C:\Users\pulkit\Desktop\work\05-september-2024\csharpDemo\obj\Debug\net8.0\ref\csharpDemo.dll
