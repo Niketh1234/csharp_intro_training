@@ -4,7 +4,9 @@
 // {
 //     Console.WriteLine(item);
 // }
+     
 
+     
 int [,]marks2 = new int[2,2];
 marks2[0,0] = 10;
 marks2[0,1] = 20;
